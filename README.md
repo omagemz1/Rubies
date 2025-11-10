@@ -53,7 +53,7 @@ cd rubies-nextjs-backend
 npm install
 
 # .env file is auto-created with:
-# MONGO_URI=mongodb+srv://admin:admin123@cluster0.q6532uz.mongodb.net/Rubies?appName=Cluster0
+# MONGO_URI=mongodb+
 # API_SECRET=dev-secret-key
 # PORT=5000
 
