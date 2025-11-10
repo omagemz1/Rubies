@@ -86,7 +86,7 @@ npm run build
 
 ### Backend (.env) - Pre-configured
 ```
-MONGO_URI=mongodb+srv://admin:admin123@cluster0.q6532uz.mongodb.net/Rubies?appName=Cluster0
+MONGO_URI=
 API_SECRET=dev-secret-key
 PORT=5000
 ```
