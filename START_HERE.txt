@@ -1,0 +1,93 @@
+================================================================================
+                    💎 RUBIES EXPENSE TRACKER 💎
+                         TypeScript Edition
+================================================================================
+
+🚀 QUICK START (3 Steps):
+
+1. INSTALL EVERYTHING
+   Double-click: INSTALL_ALL.bat
+   (This installs all dependencies and creates .env files)
+
+2. START BACKEND
+   Double-click: START_BACKEND.bat
+   (Wait for "MongoDB connected" message)
+
+3. START FRONTEND
+   Double-click: START_FRONTEND.bat
+   (Opens on http://localhost:5173)
+
+================================================================================
+
+📚 DOCUMENTATION:
+
+- QUICK_START.md      → 3-step quick start guide
+- SETUP_GUIDE.md      → Detailed setup instructions
+- PROJECT_SUMMARY.md  → Complete project overview
+- README.md           → Full documentation
+
+================================================================================
+
+🗄️ MONGODB CONFIGURATION:
+
+Connection: mongodb+srv://admin:admin123@cluster0.q6532uz.mongodb.net/Rubies
+Database:   Rubies
+Collection: data
+Username:   admin
+Password:   admin123
+
+✅ Already configured in .env files!
+
+================================================================================
+
+📁 PROJECT STRUCTURE:
+
+rubies-nextjs-backend/   → TypeScript Express.js API
+rubies-vite-frontend/    → TypeScript React + Vite + Tailwind
+
+================================================================================
+
+🎯 FEATURES:
+
+✅ Full TypeScript support (frontend & backend)
+✅ MongoDB with "data" collection
+✅ Modern Tailwind CSS UI
+✅ Income & Expense tracking
+✅ Real-time balance calculation
+✅ CRUD operations
+✅ Responsive design
+✅ Hot reload development
+
+================================================================================
+
+⚡ BATCH FILES:
+
+INSTALL_ALL.bat      → Install everything (run this first!)
+START_BACKEND.bat    → Start backend server
+START_FRONTEND.bat   → Start frontend app
+
+================================================================================
+
+🐛 TROUBLESHOOTING:
+
+TypeScript errors?
+  → Run INSTALL_ALL.bat (errors disappear after npm install)
+
+Backend won't start?
+  → Check MongoDB connection in .env file
+
+Frontend won't connect?
+  → Make sure backend is running first
+
+================================================================================
+
+📖 NEED HELP?
+
+See SETUP_GUIDE.md for detailed troubleshooting
+
+================================================================================
+
+                    🎉 READY TO RUN! 🎉
+                Double-click INSTALL_ALL.bat to begin!
+
+================================================================================
